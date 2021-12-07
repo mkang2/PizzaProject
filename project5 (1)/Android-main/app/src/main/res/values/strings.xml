@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project5</string>
+    <string name="remove"><![CDATA[remove <<]]></string>
+
+    <string-array name="size_class">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+</resources>
